@@ -1,0 +1,17 @@
+body{
+    
+background: linear-gradient(#33ccff, #ff99cc);
+}
+.col-md-6{
+    margin-top: 160px !important;
+    border: solid red 3px;
+    padding: 20px 10px;
+}
+.btn{
+    margin: 10px !important;
+}
+h1{
+    font-weight: bolder;
+    text-transform: capitalize;
+
+}
